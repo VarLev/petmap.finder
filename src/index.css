@@ -13,6 +13,7 @@ body {
   place-items: center;
   min-width: 320px;
   min-height: 100vh;
+  background: radial-gradient(99.68% 99.68% at 10.38% 0.32%, #BC88FF 0%, #2F00B6 100%);
 }
 
 button {
